@@ -1,0 +1,12 @@
+# 1.zero is neutral
+
+i = int(input("Enter number "))
+
+if i>0:
+    print ("positive integer")
+
+elif i<0:
+    print ("negitive integer")
+    
+else:
+    print ("number is zero")
